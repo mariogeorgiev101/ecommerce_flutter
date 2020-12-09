@@ -1,6 +1,6 @@
-# openflutterecommerce
+# Flutter Ecommece App
 
-Open Flutter Project E-commerce App is mobile application for e-commerce. We are building a commercially valuable product as an open-source project to make mobile technology accessible for small and medium businesses.
+Flutter Project E-commerce App is mobile application for e-commerce. We are building a commercially valuable product as an open-source project to make mobile technology accessible for small and medium businesses.
 
 ## Getting Started
 
